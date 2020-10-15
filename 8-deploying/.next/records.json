@@ -1,0 +1,45 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi next-client-pages-loader?page=%2F_app&absolutePagePath=next%2Fdist%2Fpages%2F_app! node_modules/next/dist/client/router.js": 0
+    },
+    "usedIds": {
+      "0": 0
+    }
+  },
+  "chunks": {
+    "byName": {
+      "commons": 0,
+      "static/runtime/webpack.js": 1,
+      "framework": 2,
+      "5f7a49e35526fe78691905bc89ce4b1699218671": 3,
+      "static/OIP5xdBBFiECfUMgasMgm/pages/_app.js": 4,
+      "static/OIP5xdBBFiECfUMgasMgm/pages/_error.js": 5,
+      "static/OIP5xdBBFiECfUMgasMgm/pages/about.js": 6,
+      "static/OIP5xdBBFiECfUMgasMgm/pages/index.js": 7,
+      "static/OIP5xdBBFiECfUMgasMgm/pages/p/[id].js": 8,
+      "static/runtime/main.js": 9,
+      "static/runtime/polyfills.js": 10,
+      "b88a45b80aac9b2c569028b883df5f35cd946010": 11,
+      "static/pgr9g9U5GK-tpRcOYFjhW/pages/_app.js": 12,
+      "static/pgr9g9U5GK-tpRcOYFjhW/pages/_error.js": 13,
+      "static/pgr9g9U5GK-tpRcOYFjhW/pages/about.js": 14,
+      "static/pgr9g9U5GK-tpRcOYFjhW/pages/index.js": 15,
+      "static/pgr9g9U5GK-tpRcOYFjhW/pages/p/[id].js": 16
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      2,
+      9
+    ]
+  }
+}
