@@ -1,0 +1,60 @@
+{
+  "devFiles": [],
+  "pages": {
+    "/": [
+      "static/runtime/webpack-91b117697e716c22a78b.js",
+      "static/chunks/framework.0be02d989528724041bc.js",
+      "static/chunks/commons.7e3ab0ef56f7115bdc32.js",
+      "static/runtime/main-91cf4b5c1089d62c0b41.js"
+    ],
+    "/_app": [
+      "static/runtime/webpack-91b117697e716c22a78b.js",
+      "static/chunks/framework.0be02d989528724041bc.js",
+      "static/chunks/commons.7e3ab0ef56f7115bdc32.js",
+      "static/runtime/main-91cf4b5c1089d62c0b41.js",
+      "static/jP1w-eUgyMdiQho_Lwta2/_buildManifest.js"
+    ],
+    "/_error": [
+      "static/runtime/webpack-91b117697e716c22a78b.js",
+      "static/chunks/framework.0be02d989528724041bc.js",
+      "static/chunks/commons.7e3ab0ef56f7115bdc32.js",
+      "static/runtime/main-91cf4b5c1089d62c0b41.js"
+    ],
+    "/_polyfills": [
+      "static/runtime/polyfills-ad5933a8045e80e683a7.js"
+    ],
+    "/about": [
+      "static/runtime/webpack-91b117697e716c22a78b.js",
+      "static/chunks/framework.0be02d989528724041bc.js",
+      "static/chunks/commons.7e3ab0ef56f7115bdc32.js",
+      "static/runtime/main-91cf4b5c1089d62c0b41.js"
+    ],
+    "/index": [
+      "static/runtime/webpack-91b117697e716c22a78b.js",
+      "static/chunks/framework.0be02d989528724041bc.js",
+      "static/chunks/commons.7e3ab0ef56f7115bdc32.js",
+      "static/runtime/main-91cf4b5c1089d62c0b41.js"
+    ],
+    "/p/deploy-nextjs": [
+      "static/runtime/webpack-91b117697e716c22a78b.js",
+      "static/chunks/framework.0be02d989528724041bc.js",
+      "static/chunks/commons.7e3ab0ef56f7115bdc32.js",
+      "static/chunks/a5969af7805b45f537f8a9c5ba3993e733c3dc21.3a9a4424d58d16d2c31e.js",
+      "static/runtime/main-91cf4b5c1089d62c0b41.js"
+    ],
+    "/p/hello-nextjs": [
+      "static/runtime/webpack-91b117697e716c22a78b.js",
+      "static/chunks/framework.0be02d989528724041bc.js",
+      "static/chunks/commons.7e3ab0ef56f7115bdc32.js",
+      "static/chunks/a5969af7805b45f537f8a9c5ba3993e733c3dc21.3a9a4424d58d16d2c31e.js",
+      "static/runtime/main-91cf4b5c1089d62c0b41.js"
+    ],
+    "/p/learn-nextjs": [
+      "static/runtime/webpack-91b117697e716c22a78b.js",
+      "static/chunks/framework.0be02d989528724041bc.js",
+      "static/chunks/commons.7e3ab0ef56f7115bdc32.js",
+      "static/chunks/a5969af7805b45f537f8a9c5ba3993e733c3dc21.3a9a4424d58d16d2c31e.js",
+      "static/runtime/main-91cf4b5c1089d62c0b41.js"
+    ]
+  }
+}

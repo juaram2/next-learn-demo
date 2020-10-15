@@ -1,0 +1,58 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi next-client-pages-loader?page=%2F_app&absolutePagePath=next%2Fdist%2Fpages%2F_app! node_modules/next/dist/client/router.js": 0
+    },
+    "usedIds": {
+      "0": 0
+    }
+  },
+  "chunks": {
+    "byName": {
+      "static/runtime/webpack.js": 0,
+      "commons": 1,
+      "framework": 2,
+      "4a6caad35aa51dc7b83b7d4afb395168d2eeeed0": 3,
+      "static/ISncuKqRYhx2xgkF6lP2M/pages/_app.js": 4,
+      "static/ISncuKqRYhx2xgkF6lP2M/pages/_error.js": 5,
+      "static/ISncuKqRYhx2xgkF6lP2M/pages/about.js": 6,
+      "static/ISncuKqRYhx2xgkF6lP2M/pages/index.js": 7,
+      "static/ISncuKqRYhx2xgkF6lP2M/pages/next.config.js": 8,
+      "static/ISncuKqRYhx2xgkF6lP2M/pages/show/[id].js": 9,
+      "static/runtime/main.js": 10,
+      "static/runtime/polyfills.js": 11,
+      "aaf04e61cde8043c122d881ed4b6dc59631a89b2": 12,
+      "static/us7ddIz2Sku-lpf_MpWtN/pages/_app.js": 13,
+      "static/us7ddIz2Sku-lpf_MpWtN/pages/_error.js": 14,
+      "static/us7ddIz2Sku-lpf_MpWtN/pages/about.js": 15,
+      "static/us7ddIz2Sku-lpf_MpWtN/pages/index.js": 16,
+      "static/us7ddIz2Sku-lpf_MpWtN/pages/next.config.js": 17,
+      "static/us7ddIz2Sku-lpf_MpWtN/pages/show/[id].js": 18,
+      "07badc2996c0fa9521e4a60524fdcdf9a2a831b9": 3,
+      "static/q61-1NF3A8ckoc5BybshC/pages/_app.js": 4,
+      "static/q61-1NF3A8ckoc5BybshC/pages/_error.js": 5,
+      "static/q61-1NF3A8ckoc5BybshC/pages/about.js": 6,
+      "static/q61-1NF3A8ckoc5BybshC/pages/index.js": 7,
+      "static/q61-1NF3A8ckoc5BybshC/pages/next.config.js": 8,
+      "static/q61-1NF3A8ckoc5BybshC/pages/show/[id].js": 9,
+      "static/V0anXFPbMEYc3fbTn69xZ/pages/_app.js": 12,
+      "static/V0anXFPbMEYc3fbTn69xZ/pages/_error.js": 13,
+      "static/V0anXFPbMEYc3fbTn69xZ/pages/about.js": 14,
+      "static/V0anXFPbMEYc3fbTn69xZ/pages/index.js": 15,
+      "static/V0anXFPbMEYc3fbTn69xZ/pages/show/[id].js": 16
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      2
+    ]
+  }
+}

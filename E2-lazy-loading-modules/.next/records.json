@@ -1,0 +1,60 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "multi next-client-pages-loader?page=%2F_app&absolutePagePath=next%2Fdist%2Fpages%2F_app! node_modules/next/dist/client/router.js": 0
+    },
+    "usedIds": {
+      "0": 0
+    }
+  },
+  "chunks": {
+    "byName": {
+      "commons": 0,
+      "static/runtime/webpack.js": 1,
+      "framework": 2,
+      "8673774c": 3,
+      "a7623d0fb297b5db7cbaff3df13837e7b7c62fb5": 4,
+      "static/6zp5H03RnpRtYzF1OUpmz/pages/_app.js": 5,
+      "static/6zp5H03RnpRtYzF1OUpmz/pages/_error.js": 6,
+      "static/6zp5H03RnpRtYzF1OUpmz/pages/about.js": 7,
+      "static/6zp5H03RnpRtYzF1OUpmz/pages/index.js": 8,
+      "static/6zp5H03RnpRtYzF1OUpmz/pages/p/[id].js": 9,
+      "static/runtime/main.js": 10,
+      "static/runtime/polyfills.js": 11,
+      "c8f7fe3b0e41be846d5687592cf2018ff6e22687": 12,
+      "static/T5u_twnNmLKmcu2Bc0IqF/pages/_app.js": 13,
+      "static/T5u_twnNmLKmcu2Bc0IqF/pages/_error.js": 14,
+      "static/T5u_twnNmLKmcu2Bc0IqF/pages/about.js": 15,
+      "static/T5u_twnNmLKmcu2Bc0IqF/pages/index.js": 16,
+      "static/T5u_twnNmLKmcu2Bc0IqF/pages/p/[id].js": 17,
+      "static/k4Tc3wdJP7YjrGx8bUqI5/pages/_app.js": 4,
+      "static/k4Tc3wdJP7YjrGx8bUqI5/pages/_error.js": 5,
+      "static/k4Tc3wdJP7YjrGx8bUqI5/pages/about.js": 6,
+      "static/k4Tc3wdJP7YjrGx8bUqI5/pages/index.js": 7,
+      "static/k4Tc3wdJP7YjrGx8bUqI5/pages/p/[id].js": 8
+    },
+    "bySource": {
+      "0 node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!lib/load-db.js firebase/database": 3,
+      "0 node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!lib/load-db.js firebase/app": 12,
+      "1 node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!lib/load-db.js firebase/database": 12,
+      "2 node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!lib/load-db.js firebase/database": 18,
+      "1 node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!lib/load-db.js firebase/app": 19
+    },
+    "usedIds": [
+      0,
+      1,
+      10,
+      11,
+      12,
+      18,
+      19,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  }
+}
